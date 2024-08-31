@@ -23,8 +23,8 @@ I believe in the power of the web to connect people, tell stories, and create me
 
 I'm always open to new opportunities, collaborations, and conversations. If you have an exciting project or idea in mind, let's create something amazing together!
 
-- 📫 **Email**:[ @aditya](adityadeokar80@gmail.com)
-- 💼 **LinkedIn**: [my LinkedIn](https://www.linkedin.com/in/aditya-deokar-4035b5221/)
+- 📫 **Email**: [adityadeokar80@gmail.com](mailto:adityadeokar80@gmail.com)
+- 💼 **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/aditya-deokar-4035b5221/)
 - 🌐 **Portfolio**: [My Portfolio](https://aditya-deokar.github.io/Aditya-s-Portfolio/)
 
 Thanks for visiting my profile! Have a great day! 😊
