@@ -25,7 +25,7 @@ I'm always open to new opportunities, collaborations, and conversations. If you 
 
 - 📫 **Email**: [adityadeokar80@gmail.com](mailto:adityadeokar80@gmail.com)
 - 💼 **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/aditya-deokar-4035b5221/)
-- 🌐 **Portfolio**: [My Portfolio](https://aditya-deokar.github.io/Aditya-s-Portfolio/)
+- 🌐 **Portfolio**: [My Portfolio](https://aditya-deokar.github.io/Aditya-Deokar-Portfolio/)
 
 Thanks for visiting my profile! Have a great day! 😊
 
