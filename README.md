@@ -1,4 +1,9 @@
-# Hi there, I'm Aditya! 👋
+## Hi there <img src="https://raw.githubusercontent.com/akgarg0472/akgarg0472/main/.github/images/hi.gif" width="30px">, I'm Aditya!
+
+<a href="https://www.linkedin.com/in/aditya-deokar-4035b5221/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:adityadeokar80@gmail.com"><img align="left" alt="Instagram" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<br/>
+
 
 I'm a **Creative Frontend Developer** specializing in crafting visually stunning, user-friendly websites with smooth, engaging animations. My passion lies in creating interactive digital experiences that captivate users and leave a lasting impression.
 
@@ -23,14 +28,9 @@ I believe in the power of the web to connect people, tell stories, and create me
 
 I'm always open to new opportunities, collaborations, and conversations. If you have an exciting project or idea in mind, let's create something amazing together!
 
-- 📫 **Email**: [adityadeokar80@gmail.com](mailto:adityadeokar80@gmail.com)
-- 💼 **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/aditya-deokar-4035b5221/)
-- 🌐 **Portfolio**: [My Portfolio](https://aditya-deokar.github.io/Aditya-Deokar-Portfolio/)
+- 📫 [**Email**](mailto:adityadeokar80@gmail.com)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/aditya-deokar-4035b5221/)
+- 🌐 [**Portfolio**](https://aditya-deokar.github.io/Aditya-Deokar-Portfolio/)
 
 Thanks for visiting my profile! Have a great day! 😊
 
-
-<!---
-aditya-deokar/aditya-deokar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
