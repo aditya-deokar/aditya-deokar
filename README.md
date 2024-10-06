@@ -4,6 +4,7 @@ I'm a **Creative Frontend Developer** specializing in crafting visually stunning
 
 <a href="https://www.linkedin.com/in/aditya-deokar-4035b5221/"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:adityadeokar80@gmail.com"><img align="left" alt="Instagram" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://aditya-deokar.github.io/Aditya-Deokar-Portfolio/"><img align="left" width="30" alt="Portfolio" src="https://www.svgrepo.com/show/6996/world.svg"/></a>
 <br/>
 
 ### What I Do
