@@ -7,26 +7,6 @@ I'm a **Creative Frontend Developer** specializing in crafting visually stunning
 <a href="https://aditya-deokar.github.io/Aditya-Deokar-Portfolio/"><img align="left" width="30" alt="Portfolio" src="https://www.svgrepo.com/show/6996/world.svg"/></a>
 <br/>
 
-### What I Do
-
-- **Web Development**: Skilled in HTML, CSS, and JavaScript, I create responsive websites that look great on all devices.
-- **Frontend Frameworks**: Frameworks like React, GSAP, and Tailwind CSS, focusing on performance and usability.
-- **Animations**: I love to enhance user interfaces with animations that are both beautiful and purposeful, *Making Every Interaction Enjoyable*.
-
-### My Skills
-
-- **Languages**: HTML5, CSS3, JavaScript (ES6+), Java
-- **Frameworks/Libraries**: React, GSAP (GreenSock Animation Platform), Tailwind CSS
-- **Tools**: Git, Webpack, VS Code, Figma
-- **Methodologies**: Responsive Web Design, BEM, Mobile-First Design
-
-### Let's Connect!
-
-I'm always open to new opportunities, collaborations, and conversations. If you have an exciting project or idea in mind, let's create something amazing together!
-
-- 📫 [**Email**](mailto:adityadeokar80@gmail.com)
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/aditya-deokar-4035b5221/)
-- 🌐 [**Portfolio**](https://aditya-deokar.github.io/Aditya-Deokar-Portfolio/)
 
 Thanks for visiting my profile! Have a great day! 😊
 
