@@ -5,16 +5,17 @@ Hi, I'm Aditya — a **Creative Frontend Developer** specializing in crafting vi
 
 I thrive on turning ideas into polished, memorable web interfaces that not only look great but also feel intuitive and immersive. Whether it's a sleek landing page, a dynamic dashboard, or a full-blown web app, I aim to deliver designs that blend form and function seamlessly.
 
-## Latest Skills & Tools
 
-- **Next.js 15**
+- **Next.js**
+- **React**
 - **TypeScript**
 - **Prisma ORM**
 - **Zustand**
 - **React Query**
-- **Vercel AI SDK 4.2**
+- **Vercel AI SDK**
 - **Tailwind CSS**
 - **Framer Motion**
+- **GSAP**
 
 **Let's build something amazing together.**
 
