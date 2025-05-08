@@ -1,7 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/akgarg0472/akgarg0472/main/.github/images/hi.gif" width="30px">, I'm Aditya!
 
-
-Hi, I'm Aditya — a **Creative Frontend Developer** specializing in crafting visually stunning, user-friendly websites with smooth, engaging animations. I have a deep passion for building interactive digital experiences that captivate users and leave a lasting impression.
+A **Creative Frontend Developer** specializing in crafting visually stunning, user-friendly websites with smooth, engaging animations. I have a deep passion for building interactive digital experiences that captivate users and leave a lasting impression.
 
 I thrive on turning ideas into polished, memorable web interfaces that not only look great but also feel intuitive and immersive. Whether it's a sleek landing page, a dynamic dashboard, or a full-blown web app, I aim to deliver designs that blend form and function seamlessly.
 
