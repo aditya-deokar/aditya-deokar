@@ -13,8 +13,8 @@ I thrive on turning ideas into polished, memorable web interfaces that not only 
 <p align="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-deokar&layout=compact&show_icons=true&theme=tokyonight&locale=en" alt="Top Languages" height="200" />
   &nbsp;&nbsp;
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-deokar&theme=tokyonight&fire=DD2727&currStreakLabel=FF6EC7" alt="GitHub Streak" height="200" />
-  &nbsp;&nbsp; -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-deokar&theme=tokyonight&fire=DD2727&currStreakLabel=FF6EC7" alt="GitHub Streak" height="200" />
+  &nbsp;&nbsp;
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=aditya-deokar&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide=issues&custom_title=My+GitHub+Stats" alt="GitHub Stats" /> -->
 <!--   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=aditya-deokar&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="aditya-deokar" />
