@@ -32,44 +32,89 @@ const aditya = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 🛒 E-commerce Platform
-Shopify-like multi-repo architecture — Next.js storefront, React admin, Payload CMS backend. MCP-based AI automation, RBAC, OAuth, Razorpay integration.
 
-`Next.js` `Express.js` `Supabase` `MCP` `Drizzle ORM`
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://sportzsaga.com/)
+[![Client Project](https://img.shields.io/badge/Client-Project-blue?style=for-the-badge)](#)
+
+Shopify-like multi-tenant commerce platform with RBAC, OAuth, Razorpay integration, schema-based tenancy, and MCP-powered AI automation.
+
+`Next.js` `Express.js` `PostgreSQL` `Supabase`
 
 </td>
-<td width="50%">
+
+<td width="33%">
 
 ### 🤖 NeoPrep AI
-Multi-agent AI career platform with dynamic course generation and voice-based mock interviews with real-time feedback.
 
-`Next.js` `LangChain` `LangGraph` `PostgreSQL` `Prisma`
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://study-genie-theta.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/aditya-deokar/StudyGenie)
+
+AI-powered learning platform with dynamic course generation, syllabus roadmaps, document chat, interview prep, and career guidance.
+
+`Next.js` `LangGraph` `Prisma` `PostgreSQL`
+
+</td>
+
+<td width="33%">
+
+### ⚙️ a8n
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://a8n.aditya-deokar.me)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/aditya-deokar/a8n)
+
+AI-native workflow automation platform inspired by Zapier/n8n with visual DAG builder, durable execution engine, and MCP server.
+
+`Next.js` `tRPC` `Inngest` `React Flow`
 
 </td>
 </tr>
+
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 🎨 Artistry Cart
-AI-powered multi-vendor SaaS supporting 100+ concurrent users. Event-driven microservices with Kafka + Redis (60% latency reduction).
 
-`Next.js` `Kafka` `Redis` `Docker` `NX Monorepo`
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/aditya-deokar/artistry-cart)
+
+Multi-vendor commerce platform featuring Kafka-driven analytics, AI product discovery, recommendations, CI/CD, and Kubernetes deployment.
+
+`Next.js` `Kafka` `Redis` `Docker`
 
 </td>
-<td width="50%">
 
-### 🎞️ AI Presentation Generator
-Prompt → full presentation in seconds. Real-time streaming slide generation with SSR-optimized sub-second performance.
+<td width="33%">
 
-`Next.js` `Bun` `Zustand` `Prisma`
+### 🎞️ Verto AI
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://verto.ai.aditya-deokar.me)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/aditya-deokar/verto.ai)
+
+Multi-agent presentation engine that transforms prompts into complete slide decks using LangGraph orchestration and MCP integrations.
+
+`Next.js` `LangGraph` `Prisma` `Zustand`
+
+</td>
+
+<td width="33%">
+
+### 🌍 AI Trip Planner
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/aditya-deokar/ai_trip_planner)
+
+Agentic travel assistant powered by LangGraph ReAct agents with real-time weather, places, expenses, and itinerary planning.
+
+`Python` `FastAPI` `LangGraph` `Streamlit`
 
 </td>
 </tr>
 </table>
 
 ---
+
+
 
 ## 🛠️ Tech Stack
 
