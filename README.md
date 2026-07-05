@@ -118,48 +118,23 @@ Agentic travel assistant powered by LangGraph ReAct agents with real-time weathe
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-020617?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-020617?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-020617?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
-![SQL](https://img.shields.io/badge/SQL-020617?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
+| Category                         | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **⚡ Languages**                  | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=000) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)                                                                                                                                                                                                                                                                                                              |
+| **🎨 Frontend & UI**             | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwind-css\&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-111827?style=for-the-badge\&logo=shadcnui\&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge\&logo=framer\&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge\&logo=greensock\&logoColor=000)                                                                                                                                                                                 |
+| **🧠 State & Architecture**      | ![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge\&logo=react\&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge\&logo=reactquery\&logoColor=white) ![Jotai](https://img.shields.io/badge/Jotai-000000?style=for-the-badge\&logo=react\&logoColor=white) ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge\&logo=trpc\&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge\&logo=zod\&logoColor=white) ![React Flow](https://img.shields.io/badge/React_Flow-FF0072?style=for-the-badge\&logo=react\&logoColor=white)                                                                                                                                                                                                             |
+| **🧩 Backend & APIs**            | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge\&logo=express\&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white) ![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge\&logo=hono\&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge\&logo=bun\&logoColor=FBF0DF) ![REST APIs](https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge\&logo=fastapi\&logoColor=white)                                                                                                                                                                                                               |
+| **🤖 AI, Agents & Automation**   | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=chainlink\&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-E10098?style=for-the-badge\&logo=graphql\&logoColor=white) ![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge\&logo=vercel\&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge\&logo=google\&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge\&logo=groq\&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-D97706?style=for-the-badge\&logo=anthropic\&logoColor=white) ![LiveKit](https://img.shields.io/badge/LiveKit-00E5FF?style=for-the-badge\&logo=livekit\&logoColor=000)                                                                                         |
+| **🗄️ Databases, ORM & Storage** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=000) ![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge\&logo=neon\&logoColor=000) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge\&logo=drizzle\&logoColor=000) ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge\&logo=minio\&logoColor=white) |
+| **🔐 Auth, Payments & Realtime** | ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge\&logo=auth0\&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge\&logo=clerk\&logoColor=white) ![Better Auth](https://img.shields.io/badge/Better_Auth-111827?style=for-the-badge\&logo=auth0\&logoColor=white) ![RBAC](https://img.shields.io/badge/RBAC-22C55E?style=for-the-badge\&logo=securityscorecard\&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay-0C72FF?style=for-the-badge\&logo=razorpay\&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge\&logo=stripe\&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge\&logo=socket.io\&logoColor=white)                                                                              |
+| **⚙️ DevOps & Workflow**         | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white) ![Inngest](https://img.shields.io/badge/Inngest-6366F1?style=for-the-badge\&logo=inngest\&logoColor=white) ![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge\&logo=redis\&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)                                                                                            |
 
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-020617?style=for-the-badge\&logo=next.js\&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/React-020617?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-020617?style=for-the-badge\&logo=tailwind-css\&logoColor=06B6D4)
-![Zustand](https://img.shields.io/badge/Zustand-020617?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![React Query](https://img.shields.io/badge/React_Query-020617?style=for-the-badge\&logo=reactquery\&logoColor=FF4154)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-020617?style=for-the-badge\&logo=node.js\&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-020617?style=for-the-badge\&logo=express\&logoColor=FFFFFF)
-![FastAPI](https://img.shields.io/badge/FastAPI-020617?style=for-the-badge\&logo=fastapi\&logoColor=009688)
-![Hono](https://img.shields.io/badge/Hono-020617?style=for-the-badge\&logo=hono\&logoColor=E36002)
-![Bun](https://img.shields.io/badge/Bun-020617?style=for-the-badge\&logo=bun\&logoColor=FBF0DF)
-
-**AI / ML**
-
-![LangChain](https://img.shields.io/badge/LangChain-020617?style=for-the-badge\&logo=chainlink\&logoColor=2A5ADA)
-![LangGraph](https://img.shields.io/badge/LangGraph-020617?style=for-the-badge\&logo=graphql\&logoColor=E10098)
-![Gemini](https://img.shields.io/badge/Gemini-020617?style=for-the-badge\&logo=google\&logoColor=4285F4)
-![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-020617?style=for-the-badge\&logo=vercel\&logoColor=FFFFFF)
-![MCP](https://img.shields.io/badge/MCP-020617?style=for-the-badge\&logo=anthropic\&logoColor=D97706)
-
-**Databases & Infra**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge\&logo=postgresql\&logoColor=336791)
-![MongoDB](https://img.shields.io/badge/MongoDB-020617?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
-![Redis](https://img.shields.io/badge/Redis-020617?style=for-the-badge\&logo=redis\&logoColor=DC382D)
-![Kafka](https://img.shields.io/badge/Kafka-020617?style=for-the-badge\&logo=apachekafka\&logoColor=FFFFFF)
-![Docker](https://img.shields.io/badge/Docker-020617?style=for-the-badge\&logo=docker\&logoColor=2496ED)
-![Supabase](https://img.shields.io/badge/Supabase-020617?style=for-the-badge\&logo=supabase\&logoColor=3ECF8E)
+</div>
 
 ---
+
 
 ## 🏆 Achievements
 
