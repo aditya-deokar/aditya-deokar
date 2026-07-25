@@ -50,8 +50,6 @@ Currently building the next generation of **AI-native SaaS platforms**, **MCP ap
 
 </p>
 
----
-
 ## 🤖 AI Stack
 
 <p>
