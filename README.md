@@ -11,14 +11,14 @@
   </tr>
 </table>
 
-I build **AI-native applications, intelligent workflow automation platforms, enterprise RAG systems, developer tools, and scalable full-stack products.**
+I build **AI-native applications, full-stack websites , enterprise RAG systems, MCP Apps and AI Agents.**
 
 ▸ Creator of **[a8n](https://a8n.aditya-deokar.me/)** — AI-native workflow automation platform with visual builder, MCP support, AI agents, and durable execution.<br/>
 ▸ Built **[Verto AI](https://verto.ai.aditya-deokar.me/)** — AI presentation platform that generates structured slide decks using a multi-agent architecture.<br/>
 ▸ Developed **TruthLayer** — Enterprise RAG platform featuring hybrid retrieval, conflict detection, reranking, and confidence scoring.<br/>
 ▸ Built **[Study Genie](https://study-genie-theta.vercel.app/)** — AI-powered learning platform for personalized study experiences.<br/>
 ▸ Engineered production features for **[SportzSaga](https://sportzsaga.com/)**, **[Anant Enterprises](https://anantenterprises.shop/)**, and **[FMCG Exchange](https://fmcg-exchange.com/)**, delivering scalable full-stack solutions.<br/>
-▸ Passionate about **AI Agents, MCP, LLMs, RAG, Workflow Automation, and Developer Experience.**<br/>
+▸ Passionate about **AI Agents, MCP, LLMs, RAG, Context Engineering, Harness Engineering, Evals, and Developer Experience.**<br/>
 
 Currently building the next generation of **AI-native SaaS platforms**, **MCP applications**, and **production-ready agentic systems**.
 
