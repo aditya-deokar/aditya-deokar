@@ -31,7 +31,7 @@ Currently building the next generation of **AI-native SaaS platforms**, **MCP ap
 <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6"/>
 <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Java-161B22?style=flat&logo=openjdk&logoColor=ED8B00"/>
+<!-- <img src="https://img.shields.io/badge/Java-161B22?style=flat&logo=openjdk&logoColor=ED8B00"/> -->
 <img src="https://img.shields.io/badge/Next.js-161B22?style=flat&logo=nextdotjs&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/TailwindCSS-161B22?style=flat&logo=tailwindcss&logoColor=06B6D4"/>
@@ -54,9 +54,7 @@ Currently building the next generation of **AI-native SaaS platforms**, **MCP ap
 
 <p>
 
-<img src="https://img.shields.io/badge/OpenAI-161B22?style=flat&logo=openai&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Anthropic_Claude-161B22?style=flat&logo=anthropic&logoColor=D97757"/>
-<img src="https://img.shields.io/badge/Google_Gemini-161B22?style=flat&logo=googlegemini&logoColor=8E75B2"/>
+
 <img src="https://img.shields.io/badge/LangChain-161B22?style=flat&logo=langchain&logoColor=1C3C3C"/>
 <img src="https://img.shields.io/badge/LangGraph-161B22?style=flat&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/RAG-161B22?style=flat"/>
@@ -65,7 +63,21 @@ Currently building the next generation of **AI-native SaaS platforms**, **MCP ap
 <img src="https://img.shields.io/badge/Vector_Search-161B22?style=flat"/>
 <img src="https://img.shields.io/badge/ChromaDB-161B22?style=flat"/>
 <img src="https://img.shields.io/badge/Inngest-161B22?style=flat"/>
-<img src="https://img.shields.io/badge/React_Flow-161B22?style=flat"/>
+
+
+<!-- AI Coding Tools -->
+<img src="https://img.shields.io/badge/Cursor-161B22?style=flat&logo=cursor&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Claude_Code-161B22?style=flat&logo=anthropic&logoColor=D97757"/>
+<img src="https://img.shields.io/badge/OpenAI_Codex-161B22?style=flat&logo=openai&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Google_Gemini-161B22?style=flat&logo=googlegemini&logoColor=8E75B2"/>
+<!-- AI Engineering -->
+<img src="https://img.shields.io/badge/Context_Engineering-161B22?style=flat"/>
+<img src="https://img.shields.io/badge/Harness_Engineering-161B22?style=flat"/>
+<img src="https://img.shields.io/badge/Guardrails-161B22?style=flat"/>
+<img src="https://img.shields.io/badge/Evals-161B22?style=flat"/>
+
+<!-- Framework -->
+<img src="https://img.shields.io/badge/Antigravity-161B22?style=flat"/>
 
 </p>
 
