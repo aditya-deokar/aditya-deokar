@@ -23,63 +23,25 @@ I build **AI-native applications, full-stack websites , enterprise RAG systems, 
 Currently building the next generation of **AI-native SaaS platforms**, **MCP applications**, and **production-ready agentic systems**.
 
 ---
-
 ## ⚡ Tech Stack
 
-<p>
-
-<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/JavaScript-161B22?style=flat&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB"/>
-<!-- <img src="https://img.shields.io/badge/Java-161B22?style=flat&logo=openjdk&logoColor=ED8B00"/> -->
-<img src="https://img.shields.io/badge/Next.js-161B22?style=flat&logo=nextdotjs&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TailwindCSS-161B22?style=flat&logo=tailwindcss&logoColor=06B6D4"/>
-<img src="https://img.shields.io/badge/shadcn/ui-161B22?style=flat&logo=shadcnui&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Node.js-161B22?style=flat&logo=nodedotjs&logoColor=5FA04E"/>
-<img src="https://img.shields.io/badge/Express-161B22?style=flat&logo=express&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/FastAPI-161B22?style=flat&logo=fastapi&logoColor=009688"/>
-<img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/MongoDB-161B22?style=flat&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/Redis-161B22?style=flat&logo=redis&logoColor=FF4438"/>
-<img src="https://img.shields.io/badge/Prisma-161B22?style=flat&logo=prisma&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Kafka-161B22?style=flat&logo=apachekafka&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Git-161B22?style=flat&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-161B22?style=flat&logo=github&logoColor=ffffff"/>
-
-</p>
-
-## 🤖 AI Stack
-
-<p>
+| Category                            | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**                       | <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/SQL-161B22?style=flat&logo=postgresql&logoColor=4169E1"/>                                                                                                                                                                                                                                                                                                  |
+| **Frontend**                        | <img src="https://img.shields.io/badge/Next.js-161B22?style=flat&logo=nextdotjs&logoColor=ffffff"/> <img src="https://img.shields.io/badge/React-161B22?style=flat&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TailwindCSS-161B22?style=flat&logo=tailwindcss&logoColor=06B6D4"/> <img src="https://img.shields.io/badge/shadcn%2Fui-161B22?style=flat&logo=shadcnui&logoColor=ffffff"/> <img src="https://img.shields.io/badge/React_Flow-161B22?style=flat&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/GSAP-161B22?style=flat&logo=greensock&logoColor=88CE02"/>                                                                                            |
+| **Backend & APIs**                  | <img src="https://img.shields.io/badge/Node.js-161B22?style=flat&logo=nodedotjs&logoColor=5FA04E"/> <img src="https://img.shields.io/badge/Express.js-161B22?style=flat&logo=express&logoColor=ffffff"/> <img src="https://img.shields.io/badge/FastAPI-161B22?style=flat&logo=fastapi&logoColor=009688"/> <img src="https://img.shields.io/badge/tRPC-161B22?style=flat&logo=trpc&logoColor=2596BE"/> <img src="https://img.shields.io/badge/REST_APIs-161B22?style=flat"/>                                                                                                                                                                                                                                      |
+| **Databases & ORM**                 | <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat&logo=postgresql&logoColor=4169E1"/> <img src="https://img.shields.io/badge/MongoDB-161B22?style=flat&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/MySQL-161B22?style=flat&logo=mysql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/Redis-161B22?style=flat&logo=redis&logoColor=FF4438"/> <img src="https://img.shields.io/badge/Prisma-161B22?style=flat&logo=prisma&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Drizzle_ORM-161B22?style=flat&logo=drizzle&logoColor=C5F74F"/>                                                                                                       |
+| **AI / LLM Engineering**            | <img src="https://img.shields.io/badge/LangChain-161B22?style=flat&logo=langchain&logoColor=1C3C3C"/> <img src="https://img.shields.io/badge/LangGraph-161B22?style=flat"/> <img src="https://img.shields.io/badge/AI_SDK-161B22?style=flat"/> <img src="https://img.shields.io/badge/Google_ADK-161B22?style=flat"/> <img src="https://img.shields.io/badge/Pydantic_AI-161B22?style=flat&logo=pydantic&logoColor=E92063"/> <img src="https://img.shields.io/badge/RAG-161B22?style=flat"/> <img src="https://img.shields.io/badge/AI_Agents-161B22?style=flat"/> <img src="https://img.shields.io/badge/Vector_Search-161B22?style=flat"/> <img src="https://img.shields.io/badge/ChromaDB-161B22?style=flat"/> |
+| **MCP & Agent Infrastructure**      | <img src="https://img.shields.io/badge/MCP-161B22?style=flat"/> <img src="https://img.shields.io/badge/MCP_SDK-161B22?style=flat"/> <img src="https://img.shields.io/badge/MCP_Apps-161B22?style=flat"/> <img src="https://img.shields.io/badge/MCP_UI-161B22?style=flat"/> <img src="https://img.shields.io/badge/Generative_UI-161B22?style=flat"/> <img src="https://img.shields.io/badge/A2UI-161B22?style=flat"/>                                                                                                                                                                                                                                                                                            |
+| **AI Engineering**                  | <img src="https://img.shields.io/badge/Context_Engineering-161B22?style=flat"/> <img src="https://img.shields.io/badge/Harness_Engineering-161B22?style=flat"/> <img src="https://img.shields.io/badge/Agent_Skills-161B22?style=flat"/> <img src="https://img.shields.io/badge/Guardrails-161B22?style=flat"/> <img src="https://img.shields.io/badge/Evals-161B22?style=flat"/> <img src="https://img.shields.io/badge/Prompt_Engineering-161B22?style=flat"/>                                                                                                                                                                                                                                                  |
+| **Workflows & Distributed Systems** | <img src="https://img.shields.io/badge/Inngest-161B22?style=flat"/> <img src="https://img.shields.io/badge/BullMQ-161B22?style=flat&logo=redis&logoColor=FF4438"/> <img src="https://img.shields.io/badge/Apache_Kafka-161B22?style=flat&logo=apachekafka&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Webhooks-161B22?style=flat"/> <img src="https://img.shields.io/badge/Event_Driven_Architecture-161B22?style=flat"/>                                                                                                                                                                                                                                                                          |
+| **Auth & Security**                 | <img src="https://img.shields.io/badge/Better_Auth-161B22?style=flat"/> <img src="https://img.shields.io/badge/OAuth_2.1-161B22?style=flat"/> <img src="https://img.shields.io/badge/PKCE-161B22?style=flat"/> <img src="https://img.shields.io/badge/RBAC-161B22?style=flat"/> <img src="https://img.shields.io/badge/Prompt_Injection_Defense-161B22?style=flat"/>                                                                                                                                                                                                                                                                                                                                              |
+| **Testing & Observability**         | <img src="https://img.shields.io/badge/Jest-161B22?style=flat&logo=jest&logoColor=C21325"/> <img src="https://img.shields.io/badge/Vitest-161B22?style=flat&logo=vitest&logoColor=6E9F18"/> <img src="https://img.shields.io/badge/Playwright-161B22?style=flat&logo=playwright&logoColor=45BA4B"/> <img src="https://img.shields.io/badge/LangSmith-161B22?style=flat"/> <img src="https://img.shields.io/badge/AI_Evals-161B22?style=flat"/>                                                                                                                                                                                                                                                                    |
+| **DevOps & Infrastructure**         | <img src="https://img.shields.io/badge/Docker-161B22?style=flat&logo=docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/AWS-161B22?style=flat&logo=amazonaws&logoColor=FF9900"/> <img src="https://img.shields.io/badge/CI%2FCD-161B22?style=flat"/> <img src="https://img.shields.io/badge/Neon-161B22?style=flat"/> <img src="https://img.shields.io/badge/Cloudflare-161B22?style=flat&logo=cloudflare&logoColor=F38020"/>                                                                                                                                                                                                                                                                      |
+| **AI Coding & Developer Tools**     | <img src="https://img.shields.io/badge/Git-161B22?style=flat&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/GitHub-161B22?style=flat&logo=github&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Cursor-161B22?style=flat&logo=cursor&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Claude_Code-161B22?style=flat&logo=anthropic&logoColor=D97757"/> <img src="https://img.shields.io/badge/OpenAI_Codex-161B22?style=flat&logo=openai&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Google_Gemini-161B22?style=flat&logo=googlegemini&logoColor=8E75B2"/> <img src="https://img.shields.io/badge/Antigravity-161B22?style=flat"/>                      |
+| **Realtime & Voice AI**             | <img src="https://img.shields.io/badge/LiveKit-161B22?style=flat&logo=livekit&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Sarvam_AI-161B22?style=flat"/> <img src="https://img.shields.io/badge/Voice_Agents-161B22?style=flat"/> <img src="https://img.shields.io/badge/Realtime_AI-161B22?style=flat"/>                                                                                                                                                                                                                                                                                                                                                                                          |
 
 
-<img src="https://img.shields.io/badge/LangChain-161B22?style=flat&logo=langchain&logoColor=1C3C3C"/>
-<img src="https://img.shields.io/badge/LangGraph-161B22?style=flat&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/RAG-161B22?style=flat"/>
-<img src="https://img.shields.io/badge/MCP-161B22?style=flat"/>
-<img src="https://img.shields.io/badge/AI_Agents-161B22?style=flat"/>
-<img src="https://img.shields.io/badge/Vector_Search-161B22?style=flat"/>
-<img src="https://img.shields.io/badge/ChromaDB-161B22?style=flat"/>
-<img src="https://img.shields.io/badge/Inngest-161B22?style=flat"/>
-
-
-<!-- AI Coding Tools -->
-<img src="https://img.shields.io/badge/Cursor-161B22?style=flat&logo=cursor&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Claude_Code-161B22?style=flat&logo=anthropic&logoColor=D97757"/>
-<img src="https://img.shields.io/badge/OpenAI_Codex-161B22?style=flat&logo=openai&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Google_Gemini-161B22?style=flat&logo=googlegemini&logoColor=8E75B2"/>
-<!-- AI Engineering -->
-<img src="https://img.shields.io/badge/Context_Engineering-161B22?style=flat"/>
-<img src="https://img.shields.io/badge/Harness_Engineering-161B22?style=flat"/>
-<img src="https://img.shields.io/badge/Guardrails-161B22?style=flat"/>
-<img src="https://img.shields.io/badge/Evals-161B22?style=flat"/>
-
-<!-- Framework -->
-<img src="https://img.shields.io/badge/Antigravity-161B22?style=flat"/>
-
-</p>
 
 ---
 > *Building production-ready AI systems, not just AI demos.*
